@@ -1,0 +1,21 @@
+{
+  "name": "tuning-math",
+  "version": "0.1.0",
+  "private": false,
+  "description": "Equal temperament vs just & Pythagorean ratios — a tiny CLI for classical tuning nerds.",
+  "type": "module",
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "lint": "tsc -p tsconfig.json --noEmit",
+    "start": "tsx src/main.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.2",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT"
+}
