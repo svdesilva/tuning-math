@@ -6,7 +6,7 @@ A tiny CLI that prints a **12-degree tuning table** comparing:
 - a **just-intuition** major-scale ratio column (with one deliberately spicy minor second so the table is not boring),
 - a **Pythagorean-ish** placeholder for the perfect fifth (stack of 3/2) with ET fallback elsewhere so this repo stays small.
 
-If you like Bach, you already live in the world where **pure intervals** meet **closed cycles**—and somebody has to lose a little purity in exchange for being able to modulate. That loss is measurable in **cents** (1200 × log₂ ratio).
+Classical performance practice already lives in the world where **pure intervals** meet **closed cycles**—and something has to give a little purity in exchange for practical modulation. That loss is measurable in **cents** (1200 × log₂ ratio).
 
 ---
 
